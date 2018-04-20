@@ -19,6 +19,7 @@ Cell newRange(std::vector<unsignd int> values = ()) {
 }
 
 std::vector<Cell> neighbors(Cell c) {
+	std::vector<Cell> neighs;
 }
 
 Cell simplify(Cell c) {
